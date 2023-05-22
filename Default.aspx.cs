@@ -41,7 +41,7 @@ namespace Examen_Parcial2
                 animalNuevo.Nombre = txtNombre.Text;
                 animalNuevo.Especie = txtEspecie.Text;
                 animalNuevo.Alimentacion = txtAlimentacion.Text;
-                animalNuevo.Tiempo_vida = Convert.ToInt32(txtVida.Text);
+                animalNuevo.Tiempo_vida = txtVida.Text;
 
                 Ave aveNueva = new Ave();
 

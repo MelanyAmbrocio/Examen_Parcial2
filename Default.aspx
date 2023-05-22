@@ -13,7 +13,7 @@
         <p>Tipo alimentación:
             <asp:TextBox ID="txtAlimentacion" runat="server"></asp:TextBox>
 &nbsp;&nbsp;&nbsp;&nbsp; Tiempo de vida:
-            <asp:TextBox ID="txtVida" runat="server" Width="128px"></asp:TextBox>
+            <asp:TextBox ID="txtVida" runat="server" Width="83px"></asp:TextBox>
         </p>
         <p>Vuela si/no:
             <asp:TextBox ID="txtVolador" runat="server"></asp:TextBox>

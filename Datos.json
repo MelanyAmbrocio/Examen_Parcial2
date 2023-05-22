@@ -1,1 +1,53 @@
-[{"Nombre":"Pajaro1","Especie":"Especie1","Alimentacion":"semillas1","Tiempo_vida":15,"Aves":[{"Vuela":"Si","Incubación":0,"Nombre":"Pajaro1","Especie":null,"Alimentacion":null,"Tiempo_vida":0,"Aves":[]}]},{"Nombre":"Pajaro2","Especie":"Especie2","Alimentacion":"a2","Tiempo_vida":20,"Aves":[{"Vuela":"no","Incubación":15,"Nombre":"Pajaro2","Especie":null,"Alimentacion":null,"Tiempo_vida":0,"Aves":[]}]}]
+[
+  {
+    "Nombre": "Pajaro1",
+    "Especie": "Especie1",
+    "Alimentacion": "semillas1",
+    "Tiempo_vida": "15",
+    "Aves": [
+      {
+        "Vuela": "Si",
+        "Incubación": 0,
+        "Nombre": "Pajaro1",
+        "Especie": null,
+        "Alimentacion": null,
+        "Tiempo_vida": "0",
+        "Aves": []
+      }
+    ]
+  },
+  {
+    "Nombre": "avecita",
+    "Especie": "Especie2",
+    "Alimentacion": "a2",
+    "Tiempo_vida": "20",
+    "Aves": [
+      {
+        "Vuela": "no",
+        "Incubación": 15,
+        "Nombre": "Pajaro2",
+        "Especie": null,
+        "Alimentacion": null,
+        "Tiempo_vida": "0",
+        "Aves": []
+      }
+    ]
+  },
+  {
+    "Nombre": "avecita",
+    "Especie": "esp3",
+    "Alimentacion": "a3",
+    "Tiempo_vida": "20",
+    "Aves": [
+      {
+        "Vuela": "si",
+        "Incubación": 15,
+        "Nombre": "Ave3",
+        "Especie": null,
+        "Alimentacion": null,
+        "Tiempo_vida": "0",
+        "Aves": []
+      }
+    ]
+  }
+]
