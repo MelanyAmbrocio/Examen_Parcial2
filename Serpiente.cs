@@ -10,6 +10,7 @@ namespace Examen_Parcial2
         string venenosa;
         int longitud;
 
-
+        public string Venenosa { get => venenosa; set => venenosa = value; }
+        public int Longitud { get => longitud; set => longitud = value; }
     }
 }
