@@ -1,6 +1,6 @@
 [
   {
-    "Nombre": "Pajaro1",
+    "Nombre": "pajarito1",
     "Especie": "Especie1",
     "Alimentacion": "semillas1",
     "Tiempo_vida": "15",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "Nombre": "avecita",
+    "Nombre": "ave",
     "Especie": "esp3",
     "Alimentacion": "a3",
     "Tiempo_vida": "20",
@@ -42,7 +42,7 @@
       {
         "Vuela": "si",
         "Incubación": 15,
-        "Nombre": "Ave3",
+        "Nombre": "ave",
         "Especie": null,
         "Alimentacion": null,
         "Tiempo_vida": "0",
